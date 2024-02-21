@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "814599994e6d0613",
+    "type": "split",
+    "children": [
+      {
+        "id": "012237cb3ca455c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21f4a0e14fa079a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6575ea13e82d6473",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2a4a0c1bea9c84a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96299c3306287c39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "781a3adcb6d1ef99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cba9cb18f1b645d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a5686b2dc76e6cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3e40ed5cc13b74c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83198644c0c15617",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4721f3efebacbe4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6801d84f6d0bb948",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9539a043d2ab182",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "96299c3306287c39",
+  "lastOpenFiles": [
+    "Images/Remote Branches/multiple remotes git add.png",
+    "Images/Remote Branches/multiple remotes fetch.png",
+    "Branches/Remote Branches.md",
+    "Branches/Introduction to Branching.md",
+    "Index.md",
+    "Commands/commit.md",
+    "Images/Remote Branches/git fetch.png",
+    "Images/Remote Branches/git clone.png",
+    "Images/Remote Branches",
+    "Branches/Branching Workflows.md",
+    "Images/Branching Workflows/topic branches after merge.png",
+    "Images/Branching Workflows/topic branches before merge.png",
+    "Branches/Branching and Merging.md",
+    "Images/Branching Workflows/conceptual view long running branches.png",
+    "Images/Branching Workflows",
+    "Images/Branching Workflows/simplified view long running branches.png",
+    "Branches/Untitled",
+    "Images/Branching and Merging/three-way merge.png",
+    "Images/Branching and Merging/Repository with an issue branch.png"
+  ]
+}
