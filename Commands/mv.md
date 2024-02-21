@@ -1,0 +1,1 @@
+Git doesn't track file movement. That means if you rename your files Git doesn't immediately know that. It can figure that out after the fact, but either way `git mv file_from file_to`. This is equivalent to `mv README.md README`, `git rm README.md`,`git add README`, considering that `README.md` was a tracked file. 

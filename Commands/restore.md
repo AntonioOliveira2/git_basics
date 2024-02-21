@@ -1,0 +1,1 @@
+Similar to reset, but more verbose. If you have some files all staged, and want to commit them separately, you can `git restore --staged <file>` allows you to do so. Again, restoring a file can be also done without the `--staged` flag, so it goes back to the last commited version of it.
