@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "012237cb3ca455c6",
+        "id": "d4b82344b633fa09",
         "type": "tabs",
         "children": [
           {
-            "id": "21f4a0e14fa079a1",
+            "id": "414099602ad7b4fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Branches/Rebasing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Branches/Rebasing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Branches/Rebasing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Branches/Rebasing.md"
               }
             }
           }
@@ -146,26 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96299c3306287c39",
+  "active": "414099602ad7b4fb",
   "lastOpenFiles": [
-    "Images/Remote Branches/multiple remotes git add.png",
-    "Images/Remote Branches/multiple remotes fetch.png",
-    "Branches/Remote Branches.md",
     "Branches/Introduction to Branching.md",
+    "Branches/Rebasing.md",
+    "Images/Rebasing/perils-of-rebasing-5.png",
+    "Images/Rebasing/perils-of-rebasing-3.png",
+    "Images/Rebasing/perils-of-rebasing-2 1.png",
+    "Images/Rebasing/perils-of-rebasing-2.png",
+    "Images/Rebasing/perils-of-rebasing-1.png",
+    "Images/Rebasing/interesting-rebase-5.png",
+    "Images/Rebasing/interesting-rebase-4.png",
+    "Images/Rebasing/interesting-rebase-3.png",
+    "Images/Rebasing/interesting-rebase-2 1.png",
+    "Images/Rebasing/interesting-rebase-1.png",
+    "Branches/Remote Branches.md",
     "Index.md",
+    "Images/Rebasing",
     "Commands/commit.md",
-    "Images/Remote Branches/git fetch.png",
-    "Images/Remote Branches/git clone.png",
     "Images/Remote Branches",
     "Branches/Branching Workflows.md",
-    "Images/Branching Workflows/topic branches after merge.png",
-    "Images/Branching Workflows/topic branches before merge.png",
     "Branches/Branching and Merging.md",
-    "Images/Branching Workflows/conceptual view long running branches.png",
     "Images/Branching Workflows",
-    "Images/Branching Workflows/simplified view long running branches.png",
-    "Branches/Untitled",
-    "Images/Branching and Merging/three-way merge.png",
-    "Images/Branching and Merging/Repository with an issue branch.png"
+    "Branches/Untitled"
   ]
 }
